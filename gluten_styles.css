@@ -20,6 +20,11 @@ img.drinks {
   border: 2px solid black;
 }
 
+img.chart {
+  width: 50%;
+  height: 400px;
+}
+
 .main {
   width: 100%;
   height: auto;
